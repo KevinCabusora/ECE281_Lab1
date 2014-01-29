@@ -11,12 +11,6 @@ ECE281: Lab 1
 
 # Prelab
 
-## Simulation
-
-![alt text][Lab1_Simulation.png]
-
-[Lab1_Simulation.png]: https://github.com/KevinCabusora/ECE281_Lab1/blob/master/Lab%201_Simulation.png?raw=true "Lab1_Simulation.png"
-
 ## Minimal SOP Equation
 
 ![alt text][Lab1_SOPEquation.png]
