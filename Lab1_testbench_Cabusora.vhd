@@ -1,14 +1,14 @@
 --------------------------------------------------------------------------------
--- Company: 
--- Engineer:
+-- Company: USAFA, DFEC
+-- Engineer: C3C Kevin Cabusora
 --
 -- Create Date:   08:42:06 01/23/2014
--- Design Name:   
+-- Design Name:   Lab 1 Testbench
 -- Module Name:   C:/Users/C16kevin.cabusora/Documents/xilinx projects ece281/Lab1/Lab1_testbench_Cabusora.vhd
 -- Project Name:  Lab1
--- Target Device:  
--- Tool versions:  
--- Description:   
+-- Target Device:  Digilent Nexys 2
+-- Tool versions:  n/a
+-- Description:  Testbench for VHDL for Twos Complement Converter 
 -- 
 -- VHDL Test Bench Created by ISE for module: Lab1_Cabusora
 -- 
@@ -16,7 +16,7 @@
 -- 
 -- Revision:
 -- Revision 0.01 - File Created
--- Additional Comments:
+-- Additional Comments:  Updated as of 1419, 29 Jan 2014
 --
 -- Notes: 
 -- This testbench has been automatically generated using types std_logic and
