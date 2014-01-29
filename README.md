@@ -1,4 +1,4 @@
-ECE281_Lab_1
+ECE281: Lab 1
 ==========
 
 # Lab 1:  Two's Complement Coverter
