@@ -7,11 +7,22 @@ ECE281_Lab_1
 ###### ECE 281
 ###### 23 Jan 2014
 
+### Prelab
+
+==========
+
 ## Simulation
 
 ![alt text][Lab1_Simulation.png]
 
 [Lab1_Simulation.png]: https://github.com/KevinCabusora/ECE281_Lab1/blob/master/Lab%201_Simulation.png?raw=true "Lab1_Simulation.png"
+
+## Minimal SOP Equation
+
+![alt text][Lab1_SOPEquation.png]
+
+[Lab1_SOPEquation.png]:  https://github.com/KevinCabusora/ECE281_Lab1/blob/master/Lab1_SOPEquation.png?raw=true "Lab1_Simulation.png"
+
 
 ## Truth Table
 
@@ -33,6 +44,13 @@ ECE281_Lab_1
 
 [Lab1_WireDesign.png]: https://github.com/KevinCabusora/ECE281_Lab1/blob/master/Lab1_WireDesign.png?raw=true "Lab1_WireDesign.png"
 
+
 # Analysis
 
 The testbench simulation waveform matches the results on my truth table.
+
+
+
+### Lab Tasks
+
+
